@@ -144,7 +144,7 @@ class RightWidget(QtWidgets.QWidget):
     def clear_text(self):
         self.text_edit.clear()
 
-
+    # test
 class ThreadPool:
     def __init__(self, num_threads=5):
         self.task_queue = Queue()
